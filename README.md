@@ -31,13 +31,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reDurationString from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@esm/index.mjs';
+import reDurationString from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@v0.0.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { REGEXP } from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@esm/index.mjs';
+import { REGEXP } from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@v0.0.1-esm/index.mjs';
 ```
 
 #### reDurationString()
@@ -132,7 +132,7 @@ var bool = reDurationString.REGEXP.test( '3d12h' );
 <body>
 <script type="module">
 
-import reDurationString from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@esm/index.mjs';
+import reDurationString from 'https://cdn.jsdelivr.net/gh/stdlib-js/regexp-duration-string@v0.0.1-esm/index.mjs';
 
 var RE_DURATION = reDurationString();
 
