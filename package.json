@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/regexp-duration-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Regular expression to match a duration string.",
   "license": "Apache-2.0",
   "author": {
